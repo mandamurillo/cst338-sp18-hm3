@@ -1,0 +1,60 @@
+body {
+  
+    background-image: url("https://weheartliving.com/wp-content/uploads/2017/03/acai-bowl_resized.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    color: white;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    
+}
+.container{
+    margin: auto;
+    background-color:#c1b3ef;
+    width: 700px;
+    color:#2f5899;
+    border-width: 10px;
+    border-radius: 20px;
+}
+.content{
+    margin: auto;
+    width: 90%;
+}
+h1{
+    
+    font-size: 60px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    
+    
+    
+}
+.radios{
+    margin: auto;
+    width: 150%;
+}
+p {
+    font-size: x-large;
+}
+.submission{
+    margin: auto;
+    width: 90%;
+}
+a{
+    font-size: 75px;
+    font-stretch: extra-condensed;
+    font-color:#f4f6f9;
+    font-style: oblique;
+}
+.container{
+ 
+    font-size: 25px;
+}
+    
+.center{
+    margin: auto;
+    width: 90%;
+}
